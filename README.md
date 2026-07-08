@@ -7,7 +7,7 @@ Ce CPU réalise différentes opérations arithmétiques (ADD, SUB, MULT, INV), o
 
 # Utilisation:
 
-Pour l'utiliser, il faut donc charger une valeur (1.) puis l'envoyervaleur dans le registre accumulateur (2. PASS), charger une deuxième valeur (sans l'envoyer avec PASS) puis demander l'opération.
+Pour l'utiliser, il faut donc charger une valeur (1.) puis l'envoyer dans le registre accumulateur (2. PASS), charger une deuxième valeur (sans l'envoyer avec PASS) puis demander l'opération.
 Le résultat se trouve dans le registre accumulateur (6. pour afficher son contenu).
 Pour les opérateurs unaires, il suffit de mettre la valeur dans le registre accumulateur (2. PASS) et demander l'opération.
 
